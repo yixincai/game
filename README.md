@@ -23,4 +23,8 @@ echo "doxygen -g config.txt"
 echo "doxygen config.txt"
 #Command to run
 echo "./game_yixincai"
+
+
+### Copyright
+  + [LICENSE](LICENSE.md)
 ```
